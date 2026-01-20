@@ -1,0 +1,6 @@
+cs50_indoor
+
+def enter_text(input_string):
+    return input_string.lower()
+input_text = input("")
+print(enter_text(input_text))
